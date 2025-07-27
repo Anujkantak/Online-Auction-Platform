@@ -1,0 +1,1 @@
+console.log("All Auction Items:", res.data.items);
